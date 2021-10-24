@@ -8,7 +8,7 @@
 
 ### Creation Example:
 
-POST [project_url]/api/shorturl/new - body (urlencoded) : url=https://www.google.com
+POST [project_url]/api/shorturl/ - body (urlencoded) : url=https://www.google.com
 
 ### Usage:
 

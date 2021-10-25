@@ -1,6 +1,6 @@
 # [API Project: URL Shortener Microservice for freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
 
-# [Link for the project](https://fcc-url-shortener-project.herokuapp.com/)
+### [Link for the project](https://fcc-url-shortener-project.herokuapp.com/)
 
 
 ## How To Use

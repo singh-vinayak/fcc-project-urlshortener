@@ -1,5 +1,8 @@
 # [API Project: URL Shortener Microservice for freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice)
 
+# [Link for the project](https://fcc-url-shortener-project.herokuapp.com/)
+
+
 ## How To Use
 
 > I can POST a URL to [project_url]/api/shorturl/ and I will receive a shortened URL in the JSON response. Example : {"original_url":"www.google.com","short_url":1}
